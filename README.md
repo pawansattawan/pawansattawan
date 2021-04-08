@@ -12,7 +12,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.html**,**.css**, **.javascript**, **.php**, **.sql**
 - 📖 I am currently reading Engineer ECE
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
+- 💬 Talk to me about cricket, php (both of these are not any kind of insect or animals), silicon valley & startups
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: tu ne kya kar liya
 
