@@ -14,7 +14,7 @@
 - 📖 I am currently reading Engineer ECE
 - 💬 Talk to me about cricket, php (both of these are not any kind of insect or animals), silicon valley & startups
 - 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: tu ne kya kar liya
+- ⚡ Fun fact: tune kya kar liya
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
